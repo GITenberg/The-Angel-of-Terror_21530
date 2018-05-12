@@ -1,0 +1,40 @@
+_repo: The-Angel-of-Terror_21530
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Edgar
+    alias: Wallace, Richard Horatio Edgar
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '999'
+    url: http://www.gutenberg.org/2009/agents/999
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wallace
+description: <p><B>To save herself from debtor's prison, a girl agrees to marry a
+  convicted killer</B><BR /> When her father died, Lydia lost her closest friend in
+  the world and inherited a mountain of debt. Though she works tirelessly, she doubts
+  she will ever be able to pay it all off. She is near despair when a lawyer comes
+  to her with a most unusual proposal that could save her finances&#8212;and cost
+  her life.<BR /> The lawyer's client is James Meredith, a wealthy young man who has
+  been sentenced to a lifetime of hard labor for a murder he did not commit. The witness
+  who put him away was his fianc&eacute;e, Miss Briggerland, whose icy beauty conceals
+  a heart that burns with rage. The lawyer asks Lydia to marry James in order to keep
+  the psychotic woman away from his fortune, but Miss Briggerland is not one to be
+  crossed lightly. She will take her revenge on Lydia, and she will take it in blood.<BR
+  /> This ebook features a new introduction by Otto Penzler and has been professionally...
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2007-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+title: The Angel of Terror
+url: http://www.gutenberg.org/ebooks/21530
